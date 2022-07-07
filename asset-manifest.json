@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kodecwebsite/static/css/main.573c08e2.css",
+    "main.js": "/kodecwebsite/static/js/main.63d93bfc.js",
+    "static/js/787.d7c321ab.chunk.js": "/kodecwebsite/static/js/787.d7c321ab.chunk.js",
+    "static/media/contactus-hero-img.jpg": "/kodecwebsite/static/media/contactus-hero-img.d09511d7b12f90e8bd2d.jpg",
+    "index.html": "/kodecwebsite/index.html",
+    "main.573c08e2.css.map": "/kodecwebsite/static/css/main.573c08e2.css.map",
+    "main.63d93bfc.js.map": "/kodecwebsite/static/js/main.63d93bfc.js.map",
+    "787.d7c321ab.chunk.js.map": "/kodecwebsite/static/js/787.d7c321ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.573c08e2.css",
+    "static/js/main.63d93bfc.js"
+  ]
+}
